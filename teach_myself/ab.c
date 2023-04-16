@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 
     else
     {
-        printf("sorry, file is not found");
+        printf("sorry, file is not found\n");
     }
     return 0;
 }
